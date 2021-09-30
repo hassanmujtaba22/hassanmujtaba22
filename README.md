@@ -1,7 +1,7 @@
 # Hi there, I'm Hassan Mujtabas [Portfolio][website] 👋
 
 
-## I'm a Developer, and Teacher!
+## I'm a Full Stack Developer Developer!
 
 - 🔭 I’m currently working as a [Frontend Developer][website]!
 - 🌱 I’m currently learning everything 🤣
