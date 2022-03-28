@@ -3,17 +3,15 @@
 
 ## I'm a Full Stack Developer Developer!
 
-- 🔭 I’m currently working as a [Frontend Developer][website]!
+- 🔭 I’m currently working as a [Lead Full-Stack Developer][website]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 🥅 2022 Goals: Contribute more to Open Source projects
 
 ### Connect with me:
 
 [<img align="left" alt="portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Hassan Mujtaba | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/gmail.svg" />][GMail]
-[<img align="left" alt="Hassn Mujtaba | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Hassn Mujtaba | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Hassn Mujtaba | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
@@ -41,8 +39,7 @@
 <br />
 <br />
 
-[website]: http://hassanmujtaba.surge.sh/
-[twitter]: https://twitter.com/hassannarinja
-[GMail]: hassn03203406130@gmail.com
+[website]: https://hassanmujtaba.netlify.app/
+[GMail]: dev.hassanmujtaba@gmail.com
 [instagram]: https://www.instagram.com/hassan_mujta/?hl=en
 [linkedin]: https://www.linkedin.com/in/hassan-mujtaba-123a8a181/
