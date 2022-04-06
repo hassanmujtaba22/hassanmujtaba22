@@ -7,9 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/dev_hassanmujta" target="blank"><img src="https://img.shields.io/twitter/follow/dev_hassanmujta?logo=twitter&style=for-the-badge" alt="dev_hassanmujta" /></a> </p>
 
-- 🌱 I’m currently learning **Blockchain technologies**
+- 🔭 I’m currently working on multiple project
 
 - 👨‍💻 All of my projects are available at [https://hassanmujtaba.netlify.app/](https://hassanmujtaba.netlify.app/)
+
+- 🌱 I’m currently learning **Blockchain technologies**
 
 - 💬 Ask me about **Javascript, Reactjs, and Angular,**
 
